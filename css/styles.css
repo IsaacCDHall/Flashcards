@@ -1,3 +1,11 @@
 .back {
   display: none;
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.front {
+border-width: 1px 2px 1px 2px;
+border-color: red blue darkblue darkred;
+border-style: dotted;
 }
